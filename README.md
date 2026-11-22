@@ -1,20 +1,11 @@
-# NOIR — Creative Portfolio
+# STILLFORM — Independent Creative Practice
 
-A responsive, single-page portfolio starter built with plain HTML, CSS and JavaScript.
-
-## Run locally
-Open `index.html` in a browser.
+Responsive static portfolio built with HTML, CSS and vanilla JavaScript. No framework, API key, backend or build command is required.
 
 ## Deploy to Vercel
-1. Upload these files to a new GitHub repository.
-2. In Vercel, choose **Add New → Project**.
-3. Import the repository.
-4. Keep framework preset as **Other** and deploy.
+Import this folder/repository into Vercel. Select **Other** as the framework preset; leave build and output commands empty. The site is static.
 
-No build command or environment variables are required.
-
-## Customize
-- Change `NOIR` and the page copy in `index.html`.
-- Replace `hello@example.com` with your public contact email.
-- Edit colors, spacing and typography in `style.css`.
-- Replace the three concept project cards with your real projects before publishing.
+## Before publishing
+- Replace `hello@stillform.studio` in `index.html` with a real contact email.
+- Replace concept projects and descriptions with real work when available.
+- Update the title, description and brand copy if you choose a different identity.
